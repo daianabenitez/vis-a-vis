@@ -1,0 +1,161 @@
+a{
+    font-family: "arial";
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+#temporadas a{
+    font-size: 30px;
+    padding: 2px;
+    border: 2px solid grey ;
+    margin-top: 40px ;
+    margin-bottom: 40px ;
+    border-radius: 20px;
+}
+#temporadas{
+    width: 18% ;
+    float: right ;
+}
+a:link{
+    color:#ffc300 ;
+    
+}
+a:visited{
+    color:#ffc300 ;
+}
+a:hover{
+    color:grey ;
+}
+
+
+h1{
+    font-family: "castellar";
+
+}
+
+}
+body{ font-family: "arial"
+}
+
+iframe{
+    width: 95% ;
+    border:2px solid grey ;
+    border-radius: 10px ;
+}
+
+#titulo{
+    float: left ;
+    width: 60%;
+    height: 74% ;
+    border: 5px ;
+    margin:3px;
+
+}
+#titulo img{
+    width: 100% ;
+    height: 100% ;
+
+}
+#visvis p {
+    font-size: 74% ;
+    margin: 3px;
+    font-family: "Times New Roman" ;
+}
+#visvis{
+ width: 20% ;
+    float: left ;
+    border: 2px solid grey;
+    margin:1px ;
+    
+}
+h3{
+    font-size: "Impact"
+}
+
+
+body{
+    background-color: black;
+}
+
+body{ 
+color:#ffc300;
+}
+
+
+
+#imagen1 , #imagen2 , #imagen3 , #imagen4{
+    float: left;
+    width:  10%;
+    margin: 6%;
+    border: 7px double grey;
+
+    
+  
+}
+#imagen1 img{
+    width: 100% ;
+}
+
+
+#imagen2 img{
+    width: 100% ;
+   
+}
+
+#imagen3 img{
+    width: 100% ;
+}
+
+#imagen4 img {
+    width: 100% ;
+}
+
+#arriba{
+    float: left;
+    width: 100%;
+}
+#abajo , #comentario{
+    float: left;
+    width: 100%;
+    margin-top: 30px ;
+}
+#respuesta{
+    width: 50% ;
+    height: 30% ;
+    border: 7px solid black;
+    border-radius: 10px;
+}
+#boton{
+    width: 10%;
+    height: 6% ;
+    border: 7px solid black ;
+    background-color:  grey;
+    font-family: "arial" ;
+    font-weight: bold ;
+    
+}
+
+#tabla{
+    float: left ; 
+    width: 40% ;
+    padding: 2% ;
+    margin-left: 27% ;
+}
+
+td, th{
+    border: 1px solid grey;
+    border-radius: 20px;
+    padding: 1% ;
+    font-size: 20px;
+    text-align: center ;
+    font-family: "arial" ;
+    
+}
+table{
+    width: 100%;
+}
+
+#tabla .c1{
+    width: 50% ;
+    font-size: 30px;
+}
